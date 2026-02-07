@@ -9,6 +9,11 @@
 - 👯 I’m looking to collaborate on anything interesting!
   
 - ⚡ M.S Computer Engineering, B.S. Computer Science at SDSU
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=k5y7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=k5y7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k5y7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 <!--
